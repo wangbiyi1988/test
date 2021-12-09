@@ -1,2 +1,2 @@
 hello world
-hot_fix
+hot_fix master
